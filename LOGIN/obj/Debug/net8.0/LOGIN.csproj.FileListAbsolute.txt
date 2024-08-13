@@ -1,0 +1,1147 @@
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\appsettings.json
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\LOGIN.exe
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\LOGIN.deps.json
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\LOGIN.runtimeconfig.json
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\LOGIN.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\LOGIN.pdb
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.AssemblyInfo.cs
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.LOGIN.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.build.LOGIN.props
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LOGIN.props
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LOGIN.props
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\scopedcss\bundle\LOGIN.styles.css
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.csproj.Up2Date
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\refint\LOGIN.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.pdb
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.genruntimeconfig.cache
+C:\Users\angel\source\repos\LOGIN\LOGIN\obj\Debug\net8.0\ref\LOGIN.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\MailKit.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\MimeKit.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Humanizer.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\source\repos\LOGIN\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\appsettings.json
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\LOGIN.exe
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\LOGIN.deps.json
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\LOGIN.runtimeconfig.json
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\LOGIN.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\LOGIN.pdb
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Humanizer.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\MailKit.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\MimeKit.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.csproj.AssemblyReference.cache
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.AssemblyInfo.cs
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.csproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.LOGIN.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.build.LOGIN.props
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LOGIN.props
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LOGIN.props
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\scopedcss\bundle\LOGIN.styles.css
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.csproj.Up2Date
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\refint\LOGIN.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.pdb
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.genruntimeconfig.cache
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\ref\LOGIN.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\bin\Debug\net8.0\libman.json
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\AguasBackend\LOGIN\LOGIN\obj\Debug\net8.0\LOGIN.sourcelink.json
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\appsettings.json
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\libman.json
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\appsettings.Development.json
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\LOGIN.exe
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\LOGIN.deps.json
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\LOGIN.runtimeconfig.json
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\LOGIN.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\LOGIN.pdb
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\AutoMapper.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Humanizer.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\MailKit.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\MimeKit.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\MySqlConnector.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\System.CodeDom.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\LOGIN.csproj.AssemblyReference.cache
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\LOGIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\LOGIN.AssemblyInfoInputs.cache
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\LOGIN.AssemblyInfo.cs
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\LOGIN.csproj.CoreCompileInputs.cache
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\LOGIN.MvcApplicationPartsAssemblyInfo.cs
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\LOGIN.MvcApplicationPartsAssemblyInfo.cache
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\staticwebassets.build.json
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\staticwebassets.development.json
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.LOGIN.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.build.LOGIN.props
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LOGIN.props
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LOGIN.props
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\staticwebassets.pack.json
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\scopedcss\bundle\LOGIN.styles.css
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\LOGIN.csproj.CopyComplete
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\LOGIN.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\refint\LOGIN.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\LOGIN.pdb
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\LOGIN.genruntimeconfig.cache
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\obj\Debug\net8.0\ref\LOGIN.dll
+C:\PAC II 2024 UNIVERSIDAD\Proyecto Aguas de SRC\Proyecto-Sistemas-de-Informacion-Backend\Proyecto-Sistemas-de-Informacion-Backend\LOGIN\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\appsettings.json
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\libman.json
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\LOGIN.exe
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\LOGIN.deps.json
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\LOGIN.runtimeconfig.json
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\LOGIN.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\LOGIN.pdb
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Humanizer.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\MailKit.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\MimeKit.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.csproj.AssemblyReference.cache
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.AssemblyInfoInputs.cache
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.AssemblyInfo.cs
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.sourcelink.json
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.LOGIN.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.build.LOGIN.props
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LOGIN.props
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LOGIN.props
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\scopedcss\bundle\LOGIN.styles.css
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.csproj.CopyComplete
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\refint\LOGIN.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.pdb
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.genruntimeconfig.cache
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\ref\LOGIN.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\jeffr\Documents\SistemasInformacion\Proyecto\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\dotenv.net.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\appsettings.json
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\libman.json
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\LOGIN.exe
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\LOGIN.deps.json
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\LOGIN.runtimeconfig.json
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\LOGIN.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\LOGIN.pdb
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\dotenv.net.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Humanizer.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\MailKit.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\MimeKit.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.csproj.AssemblyReference.cache
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.AssemblyInfo.cs
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.csproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.sourcelink.json
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.LOGIN.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.build.LOGIN.props
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LOGIN.props
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LOGIN.props
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\scopedcss\bundle\LOGIN.styles.css
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.csproj.Up2Date
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\refint\LOGIN.dll
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.pdb
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\LOGIN.genruntimeconfig.cache
+C:\Users\angel\Documents\ClasesUnah\SistemasInformacion\Proyecto-Sistemas-de-Informacion\LOGIN\obj\Debug\net8.0\ref\LOGIN.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\appsettings.json
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\libman.json
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\LOGIN.exe
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\LOGIN.deps.json
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\LOGIN.runtimeconfig.json
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\LOGIN.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\LOGIN.pdb
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\dotenv.net.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Humanizer.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\MailKit.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\MimeKit.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.csproj.AssemblyReference.cache
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.AssemblyInfo.cs
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.csproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.LOGIN.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.build.LOGIN.props
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LOGIN.props
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LOGIN.props
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\scopedcss\bundle\LOGIN.styles.css
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.csproj.Up2Date
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\refint\LOGIN.dll
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.pdb
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.genruntimeconfig.cache
+C:\Users\angel\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\ref\LOGIN.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\appsettings.json
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\libman.json
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\LOGIN.exe
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\LOGIN.deps.json
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\LOGIN.runtimeconfig.json
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\LOGIN.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\LOGIN.pdb
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\dotenv.net.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Humanizer.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\MailKit.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\MimeKit.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.csproj.AssemblyReference.cache
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.AssemblyInfoInputs.cache
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.AssemblyInfo.cs
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.LOGIN.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.build.LOGIN.props
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LOGIN.props
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LOGIN.props
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\scopedcss\bundle\LOGIN.styles.css
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.csproj.CopyComplete
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\refint\LOGIN.dll
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.pdb
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.genruntimeconfig.cache
+C:\Users\jeffr\Documents\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\ref\LOGIN.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\appsettings.json
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\libman.json
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\LOGIN.exe
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\LOGIN.deps.json
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\LOGIN.runtimeconfig.json
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\LOGIN.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\LOGIN.pdb
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\dotenv.net.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Humanizer.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\MailKit.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\MimeKit.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.csproj.AssemblyReference.cache
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.AssemblyInfo.cs
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.csproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.sourcelink.json
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.LOGIN.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.build.LOGIN.props
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LOGIN.props
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LOGIN.props
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\scopedcss\bundle\LOGIN.styles.css
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.csproj.Up2Date
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\refint\LOGIN.dll
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.pdb
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.genruntimeconfig.cache
+C:\Users\angel\Documents\ClasesUnah\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\ref\LOGIN.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\appsettings.json
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\libman.json
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\LOGIN.exe
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\LOGIN.deps.json
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\LOGIN.runtimeconfig.json
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\LOGIN.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\LOGIN.pdb
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\dotenv.net.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Humanizer.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\MailKit.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\MimeKit.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.csproj.AssemblyReference.cache
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.AssemblyInfoInputs.cache
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.AssemblyInfo.cs
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.LOGIN.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.build.LOGIN.props
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LOGIN.props
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LOGIN.props
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\scopedcss\bundle\LOGIN.styles.css
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.csproj.Up2Date
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\refint\LOGIN.dll
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.pdb
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\LOGIN.genruntimeconfig.cache
+C:\Users\gonza\Downloads\Proyecto-Sistemas-de-Informacion-main\Proyecto-Sistemas-de-Informacion-main\LOGIN\obj\Debug\net8.0\ref\LOGIN.dll
