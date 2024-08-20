@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyecto Aguas de Santa Rosa\\Proyecto-Sistemas-de-Informacion-main\\LOGIN\\LOGIN.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\Universidad\\Base de datos II\\Proyecto final\\Proyecto-Sistemas-de-Informacion\\Proyecto-Sistemas-de-Informacion\\LOGIN\\LOGIN.csproj": {}
   },
   "projects": {
-    "C:\\Proyecto Aguas de Santa Rosa\\Proyecto-Sistemas-de-Informacion-main\\LOGIN\\LOGIN.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Universidad\\Base de datos II\\Proyecto final\\Proyecto-Sistemas-de-Informacion\\Proyecto-Sistemas-de-Informacion\\LOGIN\\LOGIN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyecto Aguas de Santa Rosa\\Proyecto-Sistemas-de-Informacion-main\\LOGIN\\LOGIN.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Universidad\\Base de datos II\\Proyecto final\\Proyecto-Sistemas-de-Informacion\\Proyecto-Sistemas-de-Informacion\\LOGIN\\LOGIN.csproj",
         "projectName": "LOGIN",
-        "projectPath": "C:\\Proyecto Aguas de Santa Rosa\\Proyecto-Sistemas-de-Informacion-main\\LOGIN\\LOGIN.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Universidad\\Base de datos II\\Proyecto final\\Proyecto-Sistemas-de-Informacion\\Proyecto-Sistemas-de-Informacion\\LOGIN\\LOGIN.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyecto Aguas de Santa Rosa\\Proyecto-Sistemas-de-Informacion-main\\LOGIN\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Universidad\\Base de datos II\\Proyecto final\\Proyecto-Sistemas-de-Informacion\\Proyecto-Sistemas-de-Informacion\\LOGIN\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -38,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -51,6 +56,10 @@
             "CloudinaryDotNet": {
               "target": "Package",
               "version": "[1.26.2, )"
+            },
+            "FireSharp": {
+              "target": "Package",
+              "version": "[2.0.4, )"
             },
             "MailKit": {
               "target": "Package",
@@ -118,7 +127,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

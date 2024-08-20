@@ -21,5 +21,9 @@ namespace LOGIN.Dtos.UserDTOs
 
         [StringLength(50)]
         public string LastName { get; set; }
+
+
+        public string RoleId { get; set; }
+
     }
 }

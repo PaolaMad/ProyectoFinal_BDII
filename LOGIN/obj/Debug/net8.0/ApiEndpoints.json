@@ -1,0 +1,1163 @@
+[
+  {
+    "ContainingType": "AccountController",
+    "Method": "CreateRole",
+    "RelativePath": "api/account/create-role",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "LOGIN.Dtos.RolDTOs.CreateRoleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AccountController",
+    "Method": "GeneratePasswordResetToken",
+    "RelativePath": "api/account/generate-password-reset-token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "LOGIN.Dtos.UserDTOs.ForgotPasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AccountController",
+    "Method": "GetRoleById",
+    "RelativePath": "api/account/get-role{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[LOGIN.Dtos.UserDTOs.RoleDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AccountController",
+    "Method": "GetRoles",
+    "RelativePath": "api/account/get-roles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[System.Collections.Generic.IEnumerable\u00601[[LOGIN.Dtos.UserDTOs.RoleDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AccountController",
+    "Method": "Login",
+    "RelativePath": "api/account/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "LOGIN.Dtos.UserDTOs.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[LOGIN.Dtos.LoginResponseDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AccountController",
+    "Method": "GetCurrentUser",
+    "RelativePath": "api/account/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AccountController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/account/refresh-token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "LOGIN.Dtos.UserDTOs.RefreshTokenDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[LOGIN.Dtos.LoginResponseDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AccountController",
+    "Method": "Register",
+    "RelativePath": "api/account/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "LOGIN.Dtos.UserDTOs.CreateUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[LOGIN.Dtos.UserDTOs.CreateUserDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AccountController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/account/reset-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "LOGIN.Dtos.UserDTOs.ResetPasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.BlocksController",
+    "Method": "GetAllBlockasync",
+    "RelativePath": "api/block",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[System.Collections.Generic.IEnumerable\u00601[[LOGIN.Dtos.ScheduleDtos.Blocks.BlockDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.BlocksController",
+    "Method": "CreateBlock",
+    "RelativePath": "api/block",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createDto",
+        "Type": "LOGIN.Dtos.ScheduleDtos.Blocks.BlockCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[LOGIN.Dtos.ScheduleDtos.Blocks.BlockDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.BlocksController",
+    "Method": "GetByIdBlockasync",
+    "RelativePath": "api/block/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[LOGIN.Dtos.ScheduleDtos.Blocks.BlockDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.BlocksController",
+    "Method": "UpdateBlock",
+    "RelativePath": "api/block/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateDto",
+        "Type": "LOGIN.Dtos.ScheduleDtos.Blocks.BlockCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[LOGIN.Dtos.ScheduleDtos.Blocks.BlockDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.CommunicateController",
+    "Method": "CreateCommunicate",
+    "RelativePath": "api/communicate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "LOGIN.Dtos.Communicates.CreateCommunicateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.CommunicateController",
+    "Method": "GetAllCommunicates",
+    "RelativePath": "api/communicate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.CommunicateController",
+    "Method": "GetCommunicateById",
+    "RelativePath": "api/communicate/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.CommunicateController",
+    "Method": "UpdateCommunicate",
+    "RelativePath": "api/communicate/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "LOGIN.Dtos.Communicates.CommunicateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.CommunicateController",
+    "Method": "DeleteCommunicate",
+    "RelativePath": "api/communicate/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.DistrictsPointsController",
+    "Method": "GetAllDistrictsPoints",
+    "RelativePath": "api/districts-points",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[System.Collections.Generic.IEnumerable\u00601[[LOGIN.Dtos.ScheduleDtos.Districts.DistrictsPointsDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.DistrictsPointsController",
+    "Method": "Create",
+    "RelativePath": "api/districts-points",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createDto",
+        "Type": "LOGIN.Dtos.ScheduleDtos.Districts.DistrictsPointsCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[LOGIN.Dtos.ScheduleDtos.Districts.DistrictsPointsDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.DistrictsPointsController",
+    "Method": "GetByIdDistrictsPoints",
+    "RelativePath": "api/districts-points/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[LOGIN.Dtos.ScheduleDtos.Districts.DistrictsPointsDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.DistrictsPointsController",
+    "Method": "Update",
+    "RelativePath": "api/districts-points/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateDto",
+        "Type": "LOGIN.Dtos.ScheduleDtos.Districts.DistrictsPointsCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[LOGIN.Dtos.ScheduleDtos.Districts.DistrictsPointsDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.DistrictsPointsController",
+    "Method": "GetByNeighborhoodsColoniesId",
+    "RelativePath": "api/districts-points/byNeighborhoodsColonies/{neighborhoodsColoniesId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "neighborhoodsColoniesId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[System.Collections.Generic.IEnumerable\u00601[[LOGIN.Dtos.ScheduleDtos.Districts.DistrictsPointsDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.LinesController",
+    "Method": "GetAll",
+    "RelativePath": "api/lines",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[System.Collections.Generic.IEnumerable\u00601[[LOGIN.Dtos.ScheduleDtos.Lines.LinesDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.LinesController",
+    "Method": "Create",
+    "RelativePath": "api/lines",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createDto",
+        "Type": "LOGIN.Dtos.ScheduleDtos.Lines.LinesCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[LOGIN.Dtos.ScheduleDtos.Lines.LinesDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.LinesController",
+    "Method": "GetById",
+    "RelativePath": "api/lines/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[LOGIN.Dtos.ScheduleDtos.Lines.LinesDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.LinesController",
+    "Method": "Update",
+    "RelativePath": "api/lines/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateDto",
+        "Type": "LOGIN.Dtos.ScheduleDtos.Lines.LinesCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[LOGIN.Dtos.ScheduleDtos.Lines.LinesDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.NeighborhoodsColoniesController",
+    "Method": "GetAll",
+    "RelativePath": "api/neighborhood-colony",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[System.Collections.Generic.IEnumerable\u00601[[LOGIN.Dtos.ScheduleDtos.NeighborhoodsColonies.NeighborhoodsColoniesDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.NeighborhoodsColoniesController",
+    "Method": "Create",
+    "RelativePath": "api/neighborhood-colony",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createDto",
+        "Type": "LOGIN.Dtos.ScheduleDtos.NeighborhoodsColonies.NeighborhoodsColoniesCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[LOGIN.Dtos.ScheduleDtos.NeighborhoodsColonies.NeighborhoodsColoniesDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.NeighborhoodsColoniesController",
+    "Method": "GetById",
+    "RelativePath": "api/neighborhood-colony/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[LOGIN.Dtos.ScheduleDtos.NeighborhoodsColonies.NeighborhoodsColoniesDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.NeighborhoodsColoniesController",
+    "Method": "Update",
+    "RelativePath": "api/neighborhood-colony/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateDto",
+        "Type": "LOGIN.Dtos.ScheduleDtos.NeighborhoodsColonies.NeighborhoodsColoniesCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[LOGIN.Dtos.ScheduleDtos.NeighborhoodsColonies.NeighborhoodsColoniesDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.NeighborhoodsColoniesController",
+    "Method": "GetByBlockId",
+    "RelativePath": "api/neighborhood-colony/block/{blockId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "blockId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[System.Collections.Generic.IEnumerable\u00601[[LOGIN.Dtos.ScheduleDtos.NeighborhoodsColonies.NeighborhoodsColoniesDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RegistrationWaterController",
+    "Method": "GetAllRegistrationAsync",
+    "RelativePath": "api/registration",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[System.Collections.Generic.IEnumerable\u00601[[LOGIN.Dtos.ScheduleDtos.RegistrationWater.RegistrationWaterDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RegistrationWaterController",
+    "Method": "CreateRegistration",
+    "RelativePath": "api/registration",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createDto",
+        "Type": "LOGIN.Dtos.ScheduleDtos.RegistrationWater.RegistrationWaterCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[LOGIN.Dtos.ScheduleDtos.RegistrationWater.RegistrationWaterDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RegistrationWaterController",
+    "Method": "GetByIdRegistrationAsync",
+    "RelativePath": "api/registration/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LOGIN.Dtos.ResponseDto\u00601[[LOGIN.Dtos.ScheduleDtos.RegistrationWater.RegistrationWaterDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RegistrationWaterController",
+    "Method": "Update",
+    "RelativePath": "api/registration/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateDto",
+        "Type": "LOGIN.Dtos.ScheduleDtos.RegistrationWater.RegistrationWaterCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RegistrationWaterController",
+    "Method": "Delete",
+    "RelativePath": "api/registration/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.RegistrationWaterNeighborhoodsColoniesController",
+    "Method": "Get",
+    "RelativePath": "api/registrationWaterNeighborhoodsColonies/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.RegistrationWaterNeighborhoodsColoniesController",
+    "Method": "Create",
+    "RelativePath": "api/registrationWaterNeighborhoodsColonies/add-relations",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dtos",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[LOGIN.Dtos.ScheduleDtos.RegistrationWater.RegistrationWaterNeighborhoodsColoniesDto, LOGIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.RegistrationWaterNeighborhoodsColoniesController",
+    "Method": "GetByNeighborhoodsColonies",
+    "RelativePath": "api/registrationWaterNeighborhoodsColonies/by-neighborhoods-colonies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "neighborhoodsColoniesIds",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.Guid, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.ReportController",
+    "Method": "CreateReport",
+    "RelativePath": "api/report",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Key",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DNI",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Cellphone",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Date",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Report",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Direction",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Observation",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.ReportController",
+    "Method": "GetAllReports",
+    "RelativePath": "api/report",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.ReportController",
+    "Method": "UpdateReport",
+    "RelativePath": "api/report/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "Key",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DNI",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Cellphone",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Date",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Report",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Direction",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Observation",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "StateId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.ReportController",
+    "Method": "DeleteReport",
+    "RelativePath": "api/report/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.ReportController",
+    "Method": "ChangeStateReport",
+    "RelativePath": "api/report/{id}/state/{stateId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "stateId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "stateId",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.ReportController",
+    "Method": "GetReportById",
+    "RelativePath": "api/report/byid/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.ReportController",
+    "Method": "GetImageUrl",
+    "RelativePath": "api/report/image/{publicId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "publicId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.StateController",
+    "Method": "GetAllStates",
+    "RelativePath": "api/state",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.StateController",
+    "Method": "GetStateById",
+    "RelativePath": "api/state/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.ApiSubscribersControllers",
+    "Method": "GetAbonados",
+    "RelativePath": "api/subscribers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.ApiSubscribersControllers",
+    "Method": "GetAbonadoCompleto",
+    "RelativePath": "api/subscribers/buscar-abonado-completo/{clave}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "clave",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LOGIN.Controllers.ApiSubscribersControllers",
+    "Method": "GetAbonado",
+    "RelativePath": "api/subscribers/buscar-abonado/{clave}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "clave",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

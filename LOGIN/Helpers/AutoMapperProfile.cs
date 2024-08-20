@@ -2,6 +2,7 @@
 using LOGIN.Dtos;
 using LOGIN.Dtos.Communicates;
 using LOGIN.Dtos.ReportDto;
+using LOGIN.Dtos.RolDTOs;
 using LOGIN.Dtos.ScheduleDtos.Blocks;
 using LOGIN.Dtos.ScheduleDtos.Districts;
 using LOGIN.Dtos.ScheduleDtos.Lines;
@@ -10,6 +11,7 @@ using LOGIN.Dtos.ScheduleDtos.RegistrationWater;
 using LOGIN.Dtos.States;
 using LOGIN.Dtos.UserDTOs;
 using LOGIN.Entities;
+using Microsoft.AspNetCore.Identity;
 
 public class AutoMapperProfile : Profile
 {
@@ -36,6 +38,9 @@ public class AutoMapperProfile : Profile
         CreateMap<ReportEntity, ReportDto>();
         CreateMap<CreateReportDto, ReportEntity>();
 
+        CreateMap<RoleDto, IdentityRole>();
+        CreateMap<IdentityRole, RoleDto>();
+        CreateMap<CreateRoleDto, IdentityRole>(); 
 
         // Mapeo de Schedule
         CreateMap<BlockDto, BlocksEntity>();

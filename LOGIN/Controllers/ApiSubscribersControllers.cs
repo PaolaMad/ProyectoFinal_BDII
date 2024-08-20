@@ -4,6 +4,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using LOGIN.Services.Interfaces;
 using LOGIN.Dtos;
+using FireSharp.Interfaces;
+using FireSharp.Config;
+using FireSharp;
 
 namespace LOGIN.Controllers
 {
@@ -13,10 +16,28 @@ namespace LOGIN.Controllers
     {
 
         private readonly IAPiSubscriberServices _apiSubscriberServices;
+        private readonly IFirebaseClient _firebaseClient;
 
-        public ApiSubscribersControllers(IAPiSubscriberServices apiSubscriberServices)
+        private readonly HttpContext _httpContext;
+        private readonly string _USER_ID;
+
+
+        public ApiSubscribersControllers(IAPiSubscriberServices apiSubscriberServices, IHttpContextAccessor httpContextAccessor)
         {
             _apiSubscriberServices = apiSubscriberServices;
+
+            var idClaim = _httpContext.User.Claims.Where(x => x.Type == "UserId")
+            .FirstOrDefault();
+            _USER_ID = idClaim?.Value;
+
+            IFirebaseConfig config = new FirebaseConfig
+            {
+                AuthSecret = "75d2Hsnb7kvdy8eoAU5XY0W1DxNGVH0GxPN5DsuP",
+                BasePath = "https://fir-bdii-default-rtdb.firebaseio.com/"
+            };
+
+            _firebaseClient = new FirebaseClient(config);
+
         }
 
         [HttpGet]

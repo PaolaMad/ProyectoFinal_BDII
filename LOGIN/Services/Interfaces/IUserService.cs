@@ -11,6 +11,8 @@ namespace LOGIN.Services.Interfaces
         Task<bool> CheckUserNameExistsAsync(string userName);
         Task<IdentityResult> CreateRoleAsync(CreateRoleDto roleDto);
         Task<string> GeneratePasswordResetTokenAsync(string email);
+        Task<ResponseDto<IEnumerable<RoleDto>>> GetRolesAsync();
+        Task<ResponseDto<RoleDto>> GetRolesByIdAsync(string search);
         Task<ResponseDto<LoginResponseDto>> LoginUserAsync(LoginDto dto);
         Task<ResponseDto<LoginResponseDto>> RefreshTokenAsync(RefreshTokenDto dto);
         Task<ResponseDto<IdentityResult>> RegisterUserAsync(CreateUserDto userDto);

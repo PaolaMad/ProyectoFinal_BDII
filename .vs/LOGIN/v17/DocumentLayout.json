@@ -1,34 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gonza\\Downloads\\Proyecto-Sistemas-de-Informacion-main\\Proyecto-Sistemas-de-Informacion-main\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Universidad\\Base de datos II\\Proyecto final\\Proyecto-Sistemas-de-Informacion\\Proyecto-Sistemas-de-Informacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|c:\\users\\gonza\\downloads\\proyecto-sistemas-de-informacion-main\\proyecto-sistemas-de-informacion-main\\login\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|solutionrelative:login\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|c:\\users\\usuario\\documents\\universidad\\base de datos ii\\proyecto final\\proyecto-sistemas-de-informacion\\proyecto-sistemas-de-informacion\\login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|solutionrelative:login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|c:\\users\\gonza\\downloads\\proyecto-sistemas-de-informacion-main\\proyecto-sistemas-de-informacion-main\\login\\database\\applicationdbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|solutionrelative:login\\database\\applicationdbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|c:\\users\\gonza\\downloads\\proyecto-sistemas-de-informacion-main\\proyecto-sistemas-de-informacion-main\\login\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|solutionrelative:login\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|c:\\users\\gonza\\downloads\\proyecto-sistemas-de-informacion-main\\proyecto-sistemas-de-informacion-main\\login\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|c:\\users\\usuario\\documents\\universidad\\base de datos ii\\proyecto final\\proyecto-sistemas-de-informacion\\proyecto-sistemas-de-informacion\\login\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|solutionrelative:login\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|c:\\users\\gonza\\downloads\\proyecto-sistemas-de-informacion-main\\proyecto-sistemas-de-informacion-main\\login\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|c:\\users\\usuario\\documents\\universidad\\base de datos ii\\proyecto final\\proyecto-sistemas-de-informacion\\proyecto-sistemas-de-informacion\\login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|solutionrelative:login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|c:\\users\\usuario\\documents\\universidad\\base de datos ii\\proyecto final\\proyecto-sistemas-de-informacion\\proyecto-sistemas-de-informacion\\login\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|solutionrelative:login\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|c:\\users\\usuario\\documents\\universidad\\base de datos ii\\proyecto final\\proyecto-sistemas-de-informacion\\proyecto-sistemas-de-informacion\\login\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|solutionrelative:login\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|c:\\users\\gonza\\downloads\\proyecto-sistemas-de-informacion-main\\proyecto-sistemas-de-informacion-main\\login\\dtos\\userdtos\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|solutionrelative:login\\dtos\\userdtos\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|c:\\users\\gonza\\downloads\\proyecto-sistemas-de-informacion-main\\proyecto-sistemas-de-informacion-main\\login\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|solutionrelative:login\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|c:\\users\\usuario\\documents\\universidad\\base de datos ii\\proyecto final\\proyecto-sistemas-de-informacion\\proyecto-sistemas-de-informacion\\login\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|solutionrelative:login\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,92 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Proyecto-Sistemas-de-Informacion-main\\Proyecto-Sistemas-de-Informacion-main\\LOGIN\\Database\\ApplicationDbSeeder.cs",
-              "RelativeDocumentMoniker": "LOGIN\\Database\\ApplicationDbSeeder.cs",
-              "ToolTip": "C:\\Users\\gonza\\Downloads\\Proyecto-Sistemas-de-Informacion-main\\Proyecto-Sistemas-de-Informacion-main\\LOGIN\\Database\\ApplicationDbSeeder.cs",
-              "RelativeToolTip": "LOGIN\\Database\\ApplicationDbSeeder.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAowDwAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T04:46:08.365Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Proyecto-Sistemas-de-Informacion-main\\Proyecto-Sistemas-de-Informacion-main\\LOGIN\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "LOGIN\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\gonza\\Downloads\\Proyecto-Sistemas-de-Informacion-main\\Proyecto-Sistemas-de-Informacion-main\\LOGIN\\Services\\UserService.cs",
-              "RelativeToolTip": "LOGIN\\Services\\UserService.cs",
-              "ViewState": "AQIAAGUAAAAAAAAAAAAAAGkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T04:31:32.617Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Proyecto-Sistemas-de-Informacion-main\\Proyecto-Sistemas-de-Informacion-main\\LOGIN\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Universidad\\Base de datos II\\Proyecto final\\Proyecto-Sistemas-de-Informacion\\Proyecto-Sistemas-de-Informacion\\LOGIN\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "LOGIN\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\gonza\\Downloads\\Proyecto-Sistemas-de-Informacion-main\\Proyecto-Sistemas-de-Informacion-main\\LOGIN\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Universidad\\Base de datos II\\Proyecto final\\Proyecto-Sistemas-de-Informacion\\Proyecto-Sistemas-de-Informacion\\LOGIN\\Controllers\\AccountController.cs",
               "RelativeToolTip": "LOGIN\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAowE4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T04:29:21.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Proyecto-Sistemas-de-Informacion-main\\Proyecto-Sistemas-de-Informacion-main\\LOGIN\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "LOGIN\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\gonza\\Downloads\\Proyecto-Sistemas-de-Informacion-main\\Proyecto-Sistemas-de-Informacion-main\\LOGIN\\appsettings.Development.json",
-              "RelativeToolTip": "LOGIN\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-13T04:24:09.916Z"
+              "WhenOpened": "2024-08-20T15:39:47.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "RefreshTokenDto.cs",
-              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Proyecto-Sistemas-de-Informacion-main\\Proyecto-Sistemas-de-Informacion-main\\LOGIN\\Dtos\\UserDTOs\\RefreshTokenDto.cs",
-              "RelativeDocumentMoniker": "LOGIN\\Dtos\\UserDTOs\\RefreshTokenDto.cs",
-              "ToolTip": "C:\\Users\\gonza\\Downloads\\Proyecto-Sistemas-de-Informacion-main\\Proyecto-Sistemas-de-Informacion-main\\LOGIN\\Dtos\\UserDTOs\\RefreshTokenDto.cs",
-              "RelativeToolTip": "LOGIN\\Dtos\\UserDTOs\\RefreshTokenDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T04:22:26.928Z"
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Universidad\\Base de datos II\\Proyecto final\\Proyecto-Sistemas-de-Informacion\\Proyecto-Sistemas-de-Informacion\\LOGIN\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LOGIN\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Universidad\\Base de datos II\\Proyecto final\\Proyecto-Sistemas-de-Informacion\\Proyecto-Sistemas-de-Informacion\\LOGIN\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LOGIN\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T09:54:15.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Universidad\\Base de datos II\\Proyecto final\\Proyecto-Sistemas-de-Informacion\\Proyecto-Sistemas-de-Informacion\\LOGIN\\appsettings.json",
+              "RelativeDocumentMoniker": "LOGIN\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Universidad\\Base de datos II\\Proyecto final\\Proyecto-Sistemas-de-Informacion\\Proyecto-Sistemas-de-Informacion\\LOGIN\\appsettings.json",
+              "RelativeToolTip": "LOGIN\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T04:12:10.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Universidad\\Base de datos II\\Proyecto final\\Proyecto-Sistemas-de-Informacion\\Proyecto-Sistemas-de-Informacion\\LOGIN\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LOGIN\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Universidad\\Base de datos II\\Proyecto final\\Proyecto-Sistemas-de-Informacion\\Proyecto-Sistemas-de-Informacion\\LOGIN\\appsettings.Development.json",
+              "RelativeToolTip": "LOGIN\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T04:12:07.522Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserEntity.cs",
-              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Proyecto-Sistemas-de-Informacion-main\\Proyecto-Sistemas-de-Informacion-main\\LOGIN\\Entities\\UserEntity.cs",
-              "RelativeDocumentMoniker": "LOGIN\\Entities\\UserEntity.cs",
-              "ToolTip": "C:\\Users\\gonza\\Downloads\\Proyecto-Sistemas-de-Informacion-main\\Proyecto-Sistemas-de-Informacion-main\\LOGIN\\Entities\\UserEntity.cs",
-              "RelativeToolTip": "LOGIN\\Entities\\UserEntity.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwAcAAAAbAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Universidad\\Base de datos II\\Proyecto final\\Proyecto-Sistemas-de-Informacion\\Proyecto-Sistemas-de-Informacion\\LOGIN\\Program.cs",
+              "RelativeDocumentMoniker": "LOGIN\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Universidad\\Base de datos II\\Proyecto final\\Proyecto-Sistemas-de-Informacion\\Proyecto-Sistemas-de-Informacion\\LOGIN\\Program.cs",
+              "RelativeToolTip": "LOGIN\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T04:20:36.8Z"
+              "WhenOpened": "2024-08-20T04:12:05.501Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\gonza\\Downloads\\Proyecto-Sistemas-de-Informacion-main\\Proyecto-Sistemas-de-Informacion-main\\LOGIN\\Dtos\\LoginResponseDto.cs",
-              "RelativeDocumentMoniker": "LOGIN\\Dtos\\LoginResponseDto.cs",
-              "ToolTip": "C:\\Users\\gonza\\Downloads\\Proyecto-Sistemas-de-Informacion-main\\Proyecto-Sistemas-de-Informacion-main\\LOGIN\\Dtos\\LoginResponseDto.cs",
-              "RelativeToolTip": "LOGIN\\Dtos\\LoginResponseDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Universidad\\Base de datos II\\Proyecto final\\Proyecto-Sistemas-de-Informacion\\Proyecto-Sistemas-de-Informacion\\LOGIN\\Startup.cs",
+              "RelativeDocumentMoniker": "LOGIN\\Startup.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Universidad\\Base de datos II\\Proyecto final\\Proyecto-Sistemas-de-Informacion\\Proyecto-Sistemas-de-Informacion\\LOGIN\\Startup.cs",
+              "RelativeToolTip": "LOGIN\\Startup.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwAMAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T04:16:51.083Z"
+              "WhenOpened": "2024-08-20T04:11:05.989Z",
+              "EditorCaption": ""
             }
           ]
         }

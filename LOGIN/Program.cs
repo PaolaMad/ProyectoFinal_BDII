@@ -2,6 +2,7 @@ using dotenv.net;
 using LOGIN;
 using LOGIN.Database;
 using LOGIN.Entities;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.DependencyInjection;
@@ -19,14 +20,8 @@ startup.Configure(app, app.Environment);
 
 await InitializeDatabaseAsync(app);
 
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
-
 app.UseHttpsRedirection();
-app.UseAuthentication(); // Asegúrate de usar la autenticación antes de la autorización
+app.UseAuthentication(); 
 app.UseAuthorization();
 app.MapControllers();
 

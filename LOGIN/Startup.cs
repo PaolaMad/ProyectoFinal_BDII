@@ -74,7 +74,6 @@ namespace LOGIN
                     ValidateIssuer = true,
                     ValidateAudience = true,
                     ValidAudience = Configuration["Jwt:ValidAudience"],
-                    ValidIssuer = Configuration["Jwt:ValidIssuer"],
                     IssuerSigningKey = new SymmetricSecurityKey(
                         Encoding.UTF8.GetBytes(Configuration["Jwt:Secret"]))
                 };
@@ -85,11 +84,9 @@ namespace LOGIN
             {
                 options.AddPolicy(_corsPolicy, builder =>
                 {
-                    builder.WithOrigins(Configuration["FrontendURL"])
+                    builder.AllowAnyOrigin()
                            .AllowAnyHeader()
                            .AllowAnyMethod()
-                           .AllowCredentials()
-                           .SetIsOriginAllowedToAllowWildcardSubdomains()
                            .WithExposedHeaders("Content-Disposition");
                 });
             });
@@ -107,16 +104,11 @@ namespace LOGIN
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            if (env.IsDevelopment())
-            {
+            
                 app.UseSwagger();
                 app.UseSwaggerUI();
-            }
-            else
-            {
                 app.UseExceptionHandler("/error");
                 app.UseHsts();
-            }
 
             app.UseHttpsRedirection();
 

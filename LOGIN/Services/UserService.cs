@@ -1,4 +1,8 @@
-﻿using LOGIN.Dtos;
+﻿using AutoMapper;
+using FireSharp.Config;
+using FireSharp.Interfaces;
+using FireSharp;
+using LOGIN.Dtos;
 using LOGIN.Dtos.RolDTOs;
 using LOGIN.Dtos.UserDTOs;
 using LOGIN.Entities;
@@ -10,6 +14,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
+using MimeKit.Cryptography;
 using System;
 using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
@@ -17,6 +22,8 @@ using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
+using FireSharp.Response;
+using FireSharp.Extensions;
 
 public class UserService : IUserService
 {
@@ -28,6 +35,8 @@ public class UserService : IUserService
     private readonly JwtSettings _jwtSettings;
     private readonly ILogger<UserService> _logger;
     private readonly ApplicationDbContext _context;
+    private readonly IMapper _mapper;
+
 
     //para saber el usuario que esta logueado
     private readonly HttpContext _httpContext;
@@ -42,7 +51,8 @@ public class UserService : IUserService
         IOptions<JwtSettings> jwtSettings,
         ILogger<UserService> logger,
         IHttpContextAccessor httpContextAccessor,
-        ApplicationDbContext context
+        ApplicationDbContext context,
+        IMapper mapper
         )
     {
         _userManager = userManager;
@@ -53,10 +63,12 @@ public class UserService : IUserService
         _jwtSettings = jwtSettings.Value;
         _logger = logger;
         _context = context;
+        _mapper = mapper;
         _httpContext = httpContextAccessor.HttpContext;
         var idClaim = _httpContext.User.Claims.Where(x => x.Type == "UserId")
             .FirstOrDefault();
         _USER_ID = idClaim?.Value;
+
     }
 
     public async Task<ResponseDto<IdentityResult>> RegisterUserAsync(CreateUserDto userDto)
@@ -68,7 +80,7 @@ public class UserService : IUserService
             FirstName = userDto.FirstName,
             LastName = userDto.LastName,
             CreatedDate = DateTime.UtcNow,
-            Status = 1
+            Status = 1,
         };
 
         // Verifica si el email ya está registrado
@@ -85,13 +97,15 @@ public class UserService : IUserService
 
         var result = await _userManager.CreateAsync(user, userDto.Password);
 
+        var roleResult = await GetRolesByIdAsync(userDto.RoleId);
+
         if (result.Succeeded)
         {
-            if (!await _roleManager.RoleExistsAsync("User"))
+            if (!await _roleManager.RoleExistsAsync(roleResult.Data.Name))
             {
-                await _roleManager.CreateAsync(new IdentityRole { Name = "User" });
+                await _roleManager.CreateAsync(new IdentityRole { Name = roleResult.Data.Name });
             }
-            await _userManager.AddToRoleAsync(user, "User");
+            await _userManager.AddToRoleAsync(user, roleResult.Data.Name);
 
             return new ResponseDto<IdentityResult>
             {
@@ -100,6 +114,11 @@ public class UserService : IUserService
                 Message = "User registered successfully.",
                 Data = result
             };
+
+
+            
+
+
         }
 
         return new ResponseDto<IdentityResult>
@@ -109,6 +128,7 @@ public class UserService : IUserService
             Message = "User registration failed.",
             Data = result
         };
+
     }
 
     public async Task<ResponseDto<LoginResponseDto>> LoginUserAsync(LoginDto dto)
@@ -181,6 +201,47 @@ public class UserService : IUserService
         }
 
         return IdentityResult.Failed(new IdentityError { Description = "Role already exists" });
+    }
+
+    public async Task<ResponseDto<IEnumerable<RoleDto>>> GetRolesAsync()
+    {
+
+        var roles = await _context.Roles.ToListAsync();
+
+        return new ResponseDto<IEnumerable<RoleDto>>
+        {
+            Status = true,
+            StatusCode = 200,
+            Data = _mapper.Map<IEnumerable<RoleDto>>(roles),
+            Message = "Roles obtenidos correctamente"
+        };
+
+    }
+
+    public async Task<ResponseDto<RoleDto>> GetRolesByIdAsync(string search)
+    {
+
+        var roles = await _context.Roles.FindAsync(search);
+
+        if (roles == null)
+        {
+            return new ResponseDto<RoleDto>
+            {
+                Status = true,
+                StatusCode = 200,
+                Data = null,
+                Message = "Role no encontrado"
+            };
+        }
+
+        return new ResponseDto<RoleDto>
+        {
+            Status = true,
+            StatusCode = 200,
+            Data = _mapper.Map<RoleDto>(roles),
+            Message = "Role obtenido correctamente"
+        };
+
     }
 
     public async Task<string> GeneratePasswordResetTokenAsync(string email)
@@ -305,6 +366,26 @@ public class UserService : IUserService
                 };
             }
 
+            if (userEntity.RefreshToken != dto.RefreshToken)
+            {
+                return new ResponseDto<LoginResponseDto>
+                {
+                    Status = true,
+                    StatusCode = 401,
+                    Message = "Acceso no autorizado: La sesión no es válida."
+                };
+            }
+
+            if (userEntity.RefreshTokenDate < DateTimeUtils.DateTimeNowHonduras())
+            {
+                return new ResponseDto<LoginResponseDto>
+                {
+                    Status = true,
+                    StatusCode = 401,
+                    Message = "Acceso no autorizado: La sesión ha expirado."
+                };
+            }
+
 
             List<Claim> authClaims = await GetClaims(userEntity);
 
@@ -318,6 +399,7 @@ public class UserService : IUserService
             {
                 Email = userEntity.Email,
                 Token = new JwtSecurityTokenHandler().WriteToken(jwtToken),
+                Username = userEntity.UserName,
                 TokenExpiration = jwtToken.ValidTo,
                 Roles = userRoles.ToList()
             };

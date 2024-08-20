@@ -13,17 +13,28 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.IdentityModel.Tokens;
 using LOGIN.Dtos;
+//PAQUETES PARA LOGRAR LA CONEXIÓN A FIREBASE
+using FireSharp;
+using FireSharp.Config;
+using FireSharp.Interfaces;
+using FireSharp.Response;
+    
+using Newtonsoft.Json;
+using FireSharp.Extensions;
 
 [Route("api/account")]
 [ApiController]
 public class AccountController : ControllerBase
 {
-    private readonly IUserService _userService;
-    private readonly IEmailService _emailService;
-    private readonly IConfiguration _configuration;
-    private readonly UserManager<UserEntity> _userManager;
-    private readonly SignInManager<UserEntity> _signInManager;
-    private readonly ILogger<AccountController> _logger;
+        private readonly IUserService _userService;
+        private readonly IEmailService _emailService;
+        private readonly IConfiguration _configuration;
+        private readonly UserManager<UserEntity> _userManager;
+        private readonly SignInManager<UserEntity> _signInManager;
+        private readonly ILogger<AccountController> _logger;
+        private readonly IFirebaseClient _firebaseClient;
+
+        private readonly HttpContext _httpContext;
 
     public AccountController(
         IUserService userService,
@@ -31,7 +42,8 @@ public class AccountController : ControllerBase
         IConfiguration configuration,
         UserManager<UserEntity> userManager,
         SignInManager<UserEntity> signInManager,
-        ILogger<AccountController> logger)
+        ILogger<AccountController> logger,
+        IHttpContextAccessor httpContextAccessor)
     {
         _userService = userService;
         _emailService = emailService;
@@ -39,6 +51,16 @@ public class AccountController : ControllerBase
         _userManager = userManager;
         _signInManager = signInManager;
         _logger = logger;
+
+        //VARIABLES DE ENTORNO PARA BASE DE DATOS
+        IFirebaseConfig config = new FirebaseConfig
+        {
+            AuthSecret = "75d2Hsnb7kvdy8eoAU5XY0W1DxNGVH0GxPN5DsuP",
+            BasePath = "https://fir-bdii-default-rtdb.firebaseio.com/"
+        };
+
+        _firebaseClient = new FirebaseClient(config);
+
     }
 
     [HttpPost("register")]
@@ -62,6 +84,9 @@ public class AccountController : ControllerBase
     [HttpPost("login")]
     public async Task<ActionResult<ResponseDto<LoginResponseDto>>> Login([FromBody] LoginDto model)
     {
+
+        var status = "";
+
         var authResponse = await _userService.LoginUserAsync(model);
 
         //if (authResponse.Status)
@@ -69,13 +94,60 @@ public class AccountController : ControllerBase
         //    await _logsService.LogLoginAsync(dto.Email);
         //}
 
+        if(authResponse.StatusCode == 200)
+        {
+
+            status = "succes";
+
+        }
+        else
+        {
+            status = "error";
+        }
+
+        LogEntity log = new LogEntity
+        {
+            Id = Guid.NewGuid(),
+            Time = DateTime.UtcNow,
+            Action = authResponse.ToJson(),
+            State = status,
+
+        };
+
+        SetResponse respuesta = _firebaseClient.Set("logs/", log);
+
         return StatusCode(authResponse.StatusCode, authResponse);
-    }
+    }   
 
     [HttpPost("refresh-token")]
     public async Task<ActionResult<ResponseDto<LoginResponseDto>>> RefreshToken([FromBody] RefreshTokenDto dto)
     {
+
         var loginResponseDto = await _userService.RefreshTokenAsync(dto);
+
+        var status = "";
+
+        if (loginResponseDto.StatusCode == 200)
+        {
+
+            status = "succes";
+
+        }
+        else
+        {
+            status = "error";
+        }
+
+        LogEntity log = new LogEntity
+        {
+            Id = Guid.NewGuid(),
+            Time = DateTime.UtcNow,
+            Action = loginResponseDto.ToJson(),
+            State = status,
+
+        };
+
+        SetResponse respuesta = await _firebaseClient.SetAsync<LogEntity>("logs/", log);
 
         return StatusCode(loginResponseDto.StatusCode, new
         {
@@ -83,12 +155,14 @@ public class AccountController : ControllerBase
             loginResponseDto.Message,
             loginResponseDto.Data
         });
+
+
     }
 
     [HttpPost("create-role")]
-    [Authorize(Policy = "AdminOnly")]
     public async Task<IActionResult> CreateRole([FromBody] CreateRoleDto model)
     {
+
         if (!ModelState.IsValid)
         {
             return BadRequest(ModelState);
@@ -96,13 +170,109 @@ public class AccountController : ControllerBase
 
         var result = await _userService.CreateRoleAsync(model);
 
+        var status = "";
+
+        if (result.Succeeded)
+        {
+
+            status = "succes";
+
+        }
+        else
+        {
+            status = "error";
+        }
+
+        LogEntity log = new LogEntity
+        {
+            Id = Guid.NewGuid(),
+            Time = DateTime.UtcNow,
+            Action = result.ToJson(),
+            State = status,
+
+        };
+
+        SetResponse respuesta = await _firebaseClient.SetAsync<LogEntity>("logs/", log);
+
         if (result.Succeeded)
         {
             return Ok(new { Result = "Role created successfully" });
         }
 
+
         return BadRequest(result.Errors);
     }
+
+    [HttpGet("get-roles")]
+    public async Task<ActionResult<ResponseDto<IEnumerable<RoleDto>>>> GetRoles()
+    {
+
+        var result = await _userService.GetRolesAsync();
+
+        var status = "";
+
+        if (result.StatusCode == 200)
+        {
+
+            status = "succes";
+
+        }
+        else
+        {
+            status = "error";
+        }
+
+        LogEntity log = new LogEntity
+        {
+            Id = Guid.NewGuid(),
+            Time = DateTime.UtcNow,
+            Action = result.ToJson(),
+            State = status,
+
+        };
+
+        SetResponse respuesta = await _firebaseClient.SetAsync<LogEntity>("logs/", log);
+
+        return StatusCode(result.StatusCode, result);
+
+    }
+
+    [HttpGet("get-role{id}")]
+    public async Task<ActionResult<ResponseDto<RoleDto>>> GetRoleById(string id)
+    {
+
+        var result = await _userService.GetRolesByIdAsync(id);
+        
+
+        var status = "";
+
+        if (result.StatusCode == 200)
+        {
+
+            status = "succes";
+
+        }
+        else
+        {
+            status = "error";
+        }
+
+        LogEntity log = new LogEntity
+        {
+            Id = Guid.NewGuid(),
+            Time = DateTime.UtcNow,
+            Action = result.ToJson(),
+            State = status,
+
+        };
+
+        SetResponse respuesta =  _firebaseClient.Set("logs/", log);
+        
+        return StatusCode(result.StatusCode, result);
+
+
+    }
+
 
     [HttpPost("generate-password-reset-token")]
     public async Task<IActionResult> GeneratePasswordResetToken([FromBody] ForgotPasswordDto model)
